@@ -4,7 +4,7 @@
   "description": "Made with ♥️ in Kenya by Sang Lee",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name PEAKY-BLINDER-MD",
+    "start": "blinder~wQ5yxAhY#QvqxJsHjXwqsNYlpydoHw-vOuuEoflbAzMn3Nc8aBIc",
     "stop": "pm2 stop PEAKY-BLINDER-MD",
     "restart": "pm2 restart PEAKY-BLINDER-MD"
   },
